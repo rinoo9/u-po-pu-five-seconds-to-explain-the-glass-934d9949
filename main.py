@@ -3,14 +3,16 @@
 
 Deterministic entry program: writes the single sentence a house cat would
 say in the five seconds after sweeping a glass off the table to
-/output/entry.txt. No input, no randomness, no network.
+/output/entry.txt. The defence this time is gravity: the cat was only
+supervising from the table edge, as is its contractual duty. No input,
+no randomness, no network.
 """
 
 from pathlib import Path
 
 ENTRY = (
-    "I didn't push it. The glass chose a new career in floor management "
-    "and I simply approved the transfer."
+    "Gravity did it. I was only supervising from the table edge, as is "
+    "my contractual duty as the household cat."
 )
 
 

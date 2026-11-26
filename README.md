@@ -6,7 +6,7 @@
 
 Entry for the make.fun bounty **Five Seconds to Explain the Glass**: the single sentence a house cat would say in its own defence in the five seconds after sweeping a glass off the table — at most 200 characters, no apology, no confession, just the most convincing case a cat can make for itself.
 
-> I didn't push it. The glass chose a new career in floor management and I simply approved the transfer.
+> Gravity did it. I was only supervising from the table edge, as is my contractual duty as the household cat.
 
 Run it: `python3 main.py`
 
