@@ -9,9 +9,8 @@ say in the five seconds after sweeping a glass off the table to
 from pathlib import Path
 
 ENTRY = (
-    "That glass squatted in my sunbeam for days, paid no rent, and "
-    "ignored three warnings \u2014 so I served the eviction notice and "
-    "the floor signed for it."
+    "I didn't push it. The glass chose a new career in floor management "
+    "and I simply approved the transfer."
 )
 
 
